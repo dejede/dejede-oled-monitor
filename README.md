@@ -1,5 +1,12 @@
 # 🚀 dejede-oled-monitor
 
+[![Dejede Badge](https://img.shields.io/badge/DEJEDE_%7C_%2B6285236578999-5C765D?style=flat&logo=whatsapp&logoColor=white&labelColor=3F4F40)](https://wa.me/6285236578999)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-24.x%20--%2025.x-1b4b34?logo=openwrt&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.x-777bb4?logo=php&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Auth](https://img.shields.io/badge/auth-session%20%2B%20CSRF-important)
+
 > Utilitas monitoring koneksi internet *real-time* dengan animasi visual dinamis untuk **Orange Pi Zero 3** ber-OS **OpenWrt**, menggunakan layar **LCD OLED 0.96" I2C (128x64)** dan integrasi modem seluler **Dell DW** (QMI/MBIM).
 
 ---
